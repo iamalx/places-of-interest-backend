@@ -1,0 +1,16 @@
+{
+  "db": {
+    "name": "db",
+    "connector": "memory"
+  },
+  "places-of-interest": {
+    "host": "",
+    "port": 0,
+    "url": "mongodb://places:places11@ds125602.mlab.com:25602/map",
+    "database": "",
+    "password": "",
+    "name": "places-of-interest",
+    "user": "",
+    "connector": "mongodb"
+  }
+}
